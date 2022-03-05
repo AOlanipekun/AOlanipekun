@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Header](https://adedoyinolanipekun.com/<OWNER>/<OWNER>/favicon.ico "Header")](https://some-url.dev/)
 
 <!--
 **AOlanipekun/AOlanipekun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I'm currently working on *A FLUTTER APPLICATION: MICA* and its backend MQTT server hosted locally on my server
+- 👯 I’m looking to collaborate on 
