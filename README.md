@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I'm currently working on *A FLUTTER APPLICATION: MICA* and its backend MQTT server hosted locally on my server
-- 👯 I’m looking to collaborate on 
+- 🔭 I'm currently working on *MICROSERVICES* HOSTED ON VARIOUS CLOUD STORAGE ENVIRONMENT
+- 👯 I’m looking to collaborate on interesting projects
