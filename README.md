@@ -31,7 +31,6 @@ Want to know more about me? [Check out my portfolio.](https://adedoyinolanipekun
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- 
 - [Ways to improve as a developer](https://www.linkedin.com/posts/adedoyin-olanipekun_collaboration-developer-coding-activity-7067237269077659648-u4PQ?)
 - [Continuous learning as a backend engineer](https://dev.to/aolanipekun/continuous-learning-as-a-backend-engineer-271h)
 
