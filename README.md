@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I'm currently working on *MICROSERVICES* HOSTED ON VARIOUS CLOUD STORAGE ENVIRONMENT
+- I'm Very passionate about seeing through the Software Development Life Cycle of every project to meet both technical and user specifications.
+- 🔭 I have worked on *MICROSERVICE ARCHITECTURE* HOSTED ON VARIOUS CLOUD STORAGE ENVIRONMENT
 - 👯 I’m looking to collaborate on interesting projects
 
 Want to know more about me? [Check out my portfolio.](https://adedoyinolanipekun.com/)
