@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](OLANIPEKUN ADEDOYIN-2.png)](https://adedoyinolanipekun.com/)
+[![Olanipekun](olanipekun.png)](https://adedoyinolanipekun.com/)
 
 <!--
 **AOlanipekun/AOlanipekun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
