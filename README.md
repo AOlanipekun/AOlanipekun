@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://adedoyinolanipekun.com/<OWNER>/<OWNER>/favicon.ico "Header")](https://some-url.dev/)
+[![Header](./OLANIPEKUN ADEDOYIN-2.png)](https://adedoyinolanipekun.com/)
 
 <!--
 **AOlanipekun/AOlanipekun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 -->
 - 🔭 I'm currently working on *MICROSERVICES* HOSTED ON VARIOUS CLOUD STORAGE ENVIRONMENT
 - 👯 I’m looking to collaborate on interesting projects
+
+Want to know more about me? [Check out my portfolio.](https://adedoyinolanipekun.com/)
 
 ## &#x1f4c8; GitHub Stats
 
