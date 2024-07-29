@@ -34,7 +34,11 @@ Want to know more about me? [Check out my portfolio.](https://adedoyinolanipekun
 <!-- BLOG-POST-LIST:START -->
 - [Ways to improve as a developer](https://www.linkedin.com/posts/adedoyin-olanipekun_collaboration-developer-coding-activity-7067237269077659648-u4PQ?)
 - [Continuous learning as a backend engineer](https://dev.to/aolanipekun/continuous-learning-as-a-backend-engineer-271h)
-
+  
+## &#x1f4c8; Visitor Counter
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aolanipekun&label=Profile%20views&color=ce9927&style=flat" alt="aolanipekun's counter" />
+</p>
 
 ## &#x1f4c8; GitHub Stats
 
@@ -45,7 +49,7 @@ Want to know more about me? [Check out my portfolio.](https://adedoyinolanipekun
 </a>
 
 <a href="https://github.com/aolanipekun">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=aolanipekun&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=aolanipekun&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="aolanipekun's GitHub Stats" />
 </a>
 
 <br>
