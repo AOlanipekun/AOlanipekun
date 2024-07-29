@@ -36,9 +36,9 @@ Want to know more about me? [Check out my portfolio.](https://adedoyinolanipekun
 - [Continuous learning as a backend engineer](https://dev.to/aolanipekun/continuous-learning-as-a-backend-engineer-271h)
   
 ## &#x1f4c8; Visitor count
-<p align="center">
-  <img  align="center" style="margin:0.5rem" src="https://komarev.com/ghpvc/?username=aolanipekun&color=ffffff&style=flat" alt="aolanipekun's counter" />
-</p>
+<a href="https://github.com/aolanipekun">
+  <img align="center" src="https://komarev.com/ghpvc/?username=aolanipekun&hide=html,css&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="aolanipekun's counter" />
+</a>
 
 ## &#x1f4c8; GitHub Stats
 
